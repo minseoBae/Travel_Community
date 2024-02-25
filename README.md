@@ -22,10 +22,3 @@ Python: 3..
 Apache Tomcat: 9.0.*
 
 Apache Web Server: 2.4.*
-
-### 링크
-깃 위키: https://github.com/Othkkartho/Travel_Community.wiki.git
-
-웹 개발 코드: https://github.com/minseoBae/Travel_Community
-
-AI 개발 코드: https://github.com/minseoBae/Travel_Community/tree/AI_dev
